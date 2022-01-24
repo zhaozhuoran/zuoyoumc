@@ -1,0 +1,4 @@
+index.html 主界面
+mods.html mod主界面
+resourcepacks.html 资源文件主界面
+worlds.html 存档文件主界面
